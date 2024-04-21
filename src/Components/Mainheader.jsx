@@ -4,7 +4,9 @@ import Header from "./Header";
 const Mainheader = () => {
   return (
     <>
-      <Header />
+      <div className="max-w-[1400px] m-auto">
+        <Header />
+      </div>
       <Outlet />
     </>
   );
