@@ -16,7 +16,7 @@ const Header = () => {
   ];
   return (
     <>
-      <header>
+      <header className="">
         <div className="flex justify-between p-3 border shadow-lg rounded-xl">
           <div className="flex items-center space-x-2 md:space-x-8">
             <GiHamburgerMenu
