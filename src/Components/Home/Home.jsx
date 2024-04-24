@@ -1,4 +1,4 @@
-import Here_Section from "./Here_Section";
+import Here_Section from "./Hero_Section";
 import Custom_Hooks from "../../Context/Custom_Hook";
 import { useEffect } from "react";
 
